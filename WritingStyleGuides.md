@@ -12,7 +12,6 @@ _Design Systems_ for technical writers
 * GitHub: [mailchimp/content-style-guide](https://github.com/mailchimp/content-style-guide)
 
 [Atlassian Design System - Content](https://atlassian.design/content)
-* 
 
 [Google developer documentation style guide](https://developers.google.com/style)
 
